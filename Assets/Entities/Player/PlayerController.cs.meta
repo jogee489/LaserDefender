@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 7381e31c83d3f49928cc1ed4174fd792
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - laserPrefab: {instanceID: 0}
+  - fireSound: {fileID: 8300000, guid: a58c7ad2e88f944e7916a836de96c109, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
